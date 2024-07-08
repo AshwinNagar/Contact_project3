@@ -1,0 +1,48 @@
+﻿@model List<Student>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+<a href="\Home\Form">New form</a>
+<form asp-action="Search">
+    <div class="input-group mb-3">
+        <input type="search" class="form-control" name="searching" placeholder="Search Name" aria-label="Search" aria-describedby="basic-addon2">
+        <div class="input-group-append">
+            <button class="btn btn-outline-primary" type="submit">Search</button>
+        </div>
+    </div>
+</form>
+<div>
+    <table class="table table-hover">
+        <thead class="thead-dark">
+            <tr>
+                <td>Id</td>
+                <td>FirsName</td>
+                <td>LastName</td>
+                <td>Email Id</td>
+                <td>Phone Number</td>
+                <td></td>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var cont in Model)
+            {
+                <tr>
+                    <td>@cont.Id</td>
+                    <td>@cont.FirstName</td>
+                    <td>@cont.LastName</td>
+                    <td>@cont.Email</td>
+                    <td>@cont.Phone</td>
+                    <td><a class="btn btn-outline-success" href="/Home/Form?Id=@cont.Id">Edit</a> </td>
+                    <td><a class="btn btn-outline-danger" href="/Home/Delete?Id=@cont.Id">Delete</a> </td>
+                </tr>
+            }
+
+        </tbody>
+    </table>
+</div>

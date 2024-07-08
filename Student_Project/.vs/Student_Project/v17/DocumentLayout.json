@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\VS PROJECT 24 FILE\\Student_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7112F01F-CB86-48A8-961D-E656E328310B}|Student_Project\\Student_Project.csproj|c:\\vs project 24 file\\student_project\\student_project\\engine\\startup\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7112F01F-CB86-48A8-961D-E656E328310B}|Student_Project\\Student_Project.csproj|solutionrelative:student_project\\engine\\startup\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7112F01F-CB86-48A8-961D-E656E328310B}|Student_Project\\Student_Project.csproj|c:\\vs project 24 file\\student_project\\student_project\\engine\\implementation\\studentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7112F01F-CB86-48A8-961D-E656E328310B}|Student_Project\\Student_Project.csproj|solutionrelative:student_project\\engine\\implementation\\studentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7112F01F-CB86-48A8-961D-E656E328310B}|Student_Project\\Student_Project.csproj|c:\\vs project 24 file\\student_project\\student_project\\repository\\connectiondata\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7112F01F-CB86-48A8-961D-E656E328310B}|Student_Project\\Student_Project.csproj|solutionrelative:student_project\\repository\\connectiondata\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7112F01F-CB86-48A8-961D-E656E328310B}|Student_Project\\Student_Project.csproj|c:\\vs project 24 file\\student_project\\student_project\\student_project.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7112F01F-CB86-48A8-961D-E656E328310B}|Student_Project\\Student_Project.csproj|solutionrelative:student_project\\student_project.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7112F01F-CB86-48A8-961D-E656E328310B}|Student_Project\\Student_Project.csproj|c:\\vs project 24 file\\student_project\\student_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7112F01F-CB86-48A8-961D-E656E328310B}|Student_Project\\Student_Project.csproj|solutionrelative:student_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7112F01F-CB86-48A8-961D-E656E328310B}|Student_Project\\Student_Project.csproj|c:\\vs project 24 file\\student_project\\student_project\\repository\\implementation\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7112F01F-CB86-48A8-961D-E656E328310B}|Student_Project\\Student_Project.csproj|solutionrelative:student_project\\repository\\implementation\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7112F01F-CB86-48A8-961D-E656E328310B}|Student_Project\\Student_Project.csproj|c:\\vs project 24 file\\student_project\\student_project\\repository\\istudetnrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7112F01F-CB86-48A8-961D-E656E328310B}|Student_Project\\Student_Project.csproj|solutionrelative:student_project\\repository\\istudetnrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7112F01F-CB86-48A8-961D-E656E328310B}|Student_Project\\Student_Project.csproj|c:\\vs project 24 file\\student_project\\student_project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7112F01F-CB86-48A8-961D-E656E328310B}|Student_Project\\Student_Project.csproj|solutionrelative:student_project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7112F01F-CB86-48A8-961D-E656E328310B}|Student_Project\\Student_Project.csproj|c:\\vs project 24 file\\student_project\\student_project\\views\\home\\form.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7112F01F-CB86-48A8-961D-E656E328310B}|Student_Project\\Student_Project.csproj|solutionrelative:student_project\\views\\home\\form.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7112F01F-CB86-48A8-961D-E656E328310B}|Student_Project\\Student_Project.csproj|c:\\vs project 24 file\\student_project\\student_project\\engine\\contact\\istudentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7112F01F-CB86-48A8-961D-E656E328310B}|Student_Project\\Student_Project.csproj|solutionrelative:student_project\\engine\\contact\\istudentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7112F01F-CB86-48A8-961D-E656E328310B}|Student_Project\\Student_Project.csproj|c:\\vs project 24 file\\student_project\\student_project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7112F01F-CB86-48A8-961D-E656E328310B}|Student_Project\\Student_Project.csproj|solutionrelative:student_project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\VS PROJECT 24 FILE\\Student_Project\\Student_Project\\Program.cs",
+              "RelativeDocumentMoniker": "Student_Project\\Program.cs",
+              "ToolTip": "C:\\VS PROJECT 24 FILE\\Student_Project\\Student_Project\\Program.cs",
+              "RelativeToolTip": "Student_Project\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T15:27:00.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\VS PROJECT 24 FILE\\Student_Project\\Student_Project\\Engine\\Startup\\Startup.cs",
+              "RelativeDocumentMoniker": "Student_Project\\Engine\\Startup\\Startup.cs",
+              "ToolTip": "C:\\VS PROJECT 24 FILE\\Student_Project\\Student_Project\\Engine\\Startup\\Startup.cs*",
+              "RelativeToolTip": "Student_Project\\Engine\\Startup\\Startup.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T15:26:44.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\VS PROJECT 24 FILE\\Student_Project\\Student_Project\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Student_Project\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\VS PROJECT 24 FILE\\Student_Project\\Student_Project\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Student_Project\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T15:25:02.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form.cshtml",
+              "DocumentMoniker": "C:\\VS PROJECT 24 FILE\\Student_Project\\Student_Project\\Views\\Home\\Form.cshtml",
+              "RelativeDocumentMoniker": "Student_Project\\Views\\Home\\Form.cshtml",
+              "ToolTip": "C:\\VS PROJECT 24 FILE\\Student_Project\\Student_Project\\Views\\Home\\Form.cshtml",
+              "RelativeToolTip": "Student_Project\\Views\\Home\\Form.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T15:21:33.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IStudentServices.cs",
+              "DocumentMoniker": "C:\\VS PROJECT 24 FILE\\Student_Project\\Student_Project\\Engine\\Contact\\IStudentServices.cs",
+              "RelativeDocumentMoniker": "Student_Project\\Engine\\Contact\\IStudentServices.cs",
+              "ToolTip": "C:\\VS PROJECT 24 FILE\\Student_Project\\Student_Project\\Engine\\Contact\\IStudentServices.cs",
+              "RelativeToolTip": "Student_Project\\Engine\\Contact\\IStudentServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T15:19:25.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\VS PROJECT 24 FILE\\Student_Project\\Student_Project\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Student_Project\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\VS PROJECT 24 FILE\\Student_Project\\Student_Project\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Student_Project\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T15:17:21.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentServices.cs",
+              "DocumentMoniker": "C:\\VS PROJECT 24 FILE\\Student_Project\\Student_Project\\Engine\\Implementation\\StudentServices.cs",
+              "RelativeDocumentMoniker": "Student_Project\\Engine\\Implementation\\StudentServices.cs",
+              "ToolTip": "C:\\VS PROJECT 24 FILE\\Student_Project\\Student_Project\\Engine\\Implementation\\StudentServices.cs",
+              "RelativeToolTip": "Student_Project\\Engine\\Implementation\\StudentServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T15:07:03.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IStudetnRepository.cs",
+              "DocumentMoniker": "C:\\VS PROJECT 24 FILE\\Student_Project\\Student_Project\\Repository\\IStudetnRepository.cs",
+              "RelativeDocumentMoniker": "Student_Project\\Repository\\IStudetnRepository.cs",
+              "ToolTip": "C:\\VS PROJECT 24 FILE\\Student_Project\\Student_Project\\Repository\\IStudetnRepository.cs",
+              "RelativeToolTip": "Student_Project\\Repository\\IStudetnRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T15:05:13.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\VS PROJECT 24 FILE\\Student_Project\\Student_Project\\Repository\\Implementation\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "Student_Project\\Repository\\Implementation\\StudentRepository.cs",
+              "ToolTip": "C:\\VS PROJECT 24 FILE\\Student_Project\\Student_Project\\Repository\\Implementation\\StudentRepository.cs",
+              "RelativeToolTip": "Student_Project\\Repository\\Implementation\\StudentRepository.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAawBoAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T15:03:16.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\VS PROJECT 24 FILE\\Student_Project\\Student_Project\\Repository\\ConnectionData\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "Student_Project\\Repository\\ConnectionData\\BaseRepository.cs",
+              "ToolTip": "C:\\VS PROJECT 24 FILE\\Student_Project\\Student_Project\\Repository\\ConnectionData\\BaseRepository.cs",
+              "RelativeToolTip": "Student_Project\\Repository\\ConnectionData\\BaseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T15:02:23.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student_Project",
+              "DocumentMoniker": "C:\\VS PROJECT 24 FILE\\Student_Project\\Student_Project\\Student_Project.csproj",
+              "RelativeDocumentMoniker": "Student_Project\\Student_Project.csproj",
+              "ToolTip": "C:\\VS PROJECT 24 FILE\\Student_Project\\Student_Project\\Student_Project.csproj*",
+              "RelativeToolTip": "Student_Project\\Student_Project.csproj*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-08T04:34:51.919Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

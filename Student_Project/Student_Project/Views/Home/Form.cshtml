@@ -1,0 +1,33 @@
+﻿@model Student
+@{
+    ViewData["Title"] = "StudentForm";
+}
+
+<h1>StudentForm</h1>
+
+<div>
+    <form asp-action="Save">
+
+        <input type="hidden" name="Id" value="@Model.Id" />
+        <label>FirstName</label>
+        <input class="form-control" type="text" name="FirstName" value="@Model.FirstName" />
+        <label>LastName</label>
+        <input class="form-control" type="text" name="LastName" value="@Model.LastName" />
+        <label>Email Id</label>
+        <input class="form-control" type="email" name="Email" value="@Model.Email" />
+        <label>Phone Number</label>
+        <input class="form-control" type="number" name="Phone" value="@Model.Phone" />
+
+
+        <input class="btn btn-primary mt-3" type="submit" value="@ViewBag.buttonName" />
+
+
+
+
+
+        @*  <input class="btn btn-primary mt-3" type="button" value="Back" /> *@
+        <a class="btn btn-primary mt-3" href="/Home/Index">Back</a>
+
+    </form>
+</div>
+
